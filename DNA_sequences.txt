@@ -1,1 +1,2 @@
 TACGTACGACTGACCCCGATCGATTATGCCT
+The four nucleotides of a DNA sequences are: A,T,G,C
